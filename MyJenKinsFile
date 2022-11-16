@@ -21,6 +21,6 @@ pipeline {
                 bat 'mvn validate -DbumpMajor'
             }
         }
-
+}
         
 }
